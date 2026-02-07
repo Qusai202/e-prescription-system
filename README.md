@@ -1,5 +1,5 @@
 # e-prescription-system
-# Web Management System
+
 
 A full-stack web application built with Java (Spring Boot) for the backend
 and React + TypeScript for the frontend.
