@@ -1,5 +1,0 @@
-export enum Role {
-  DOCTOR = "ROLE_DOCTOR",
-  PATIENT = "ROLE_PATIENT",
-  PHARMACY = "ROLE_PHARMACY",
-}
